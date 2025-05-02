@@ -66,6 +66,11 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://profile-counter.glitch.me/karki-biplab/count.svg" alt="Visitor Count" />
+  <p>Thanks for visiting! 😊</p>
+</div>
+---
 
 ## 🌐 Connect With Me
 
