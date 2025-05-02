@@ -60,10 +60,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karki-Biplab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Karki-Biplab&theme=default" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karki-Biplab&theme=tokyonight" alt="GitHub Trophies" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karki-biplab&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karki-Biplab&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 <div align="center">
