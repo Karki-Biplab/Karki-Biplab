@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://biplab13.com.np" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://biplabkarki.com.np" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
